@@ -1,2 +1,3 @@
-puts "Hello
-"I am star!"
+puts "Hello"
+puts "I am star!"
+puts "rails is great!"
