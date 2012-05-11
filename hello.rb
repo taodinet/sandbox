@@ -1,1 +1,2 @@
-puts "Hello"
+puts "Hello
+"I am star!"
